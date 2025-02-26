@@ -8,9 +8,7 @@
             int idade = 39;
             string nomeCompleto = "Danyelle";
 
-            var variavelSemTipo = "Danyelle";
 
-            Console.WriteLine(variavelSemTipo.GetType());
 
             Console.WriteLine("Digite seu nome: ");
             string nomeUsuario =Console.ReadLine();
